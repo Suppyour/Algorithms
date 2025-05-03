@@ -2,7 +2,7 @@
 
 namespace FirstApp;
 
-class Program
+class LevelOne
 {
     static void Main()
     {
@@ -104,10 +104,10 @@ class Program
         double totalSeconds = 0;
         for (int i = 0; i < 10; i++)
         {
-            int[] copy = new int[original.Length];
+            var copy = new int[original.Length];
             Array.Copy(original, copy, original.Length);
 
-            Stopwatch stopwatch = Stopwatch.StartNew();
+            var stopwatch = Stopwatch.StartNew();
             sortFunc(copy);
             stopwatch.Stop();
 

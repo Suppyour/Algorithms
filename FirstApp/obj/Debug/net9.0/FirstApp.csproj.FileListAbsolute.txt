@@ -1,0 +1,14 @@
+C:\Users\mpors\Desktop\MySolution\FirstApp\bin\Debug\net9.0\FirstApp.exe
+C:\Users\mpors\Desktop\MySolution\FirstApp\bin\Debug\net9.0\FirstApp.deps.json
+C:\Users\mpors\Desktop\MySolution\FirstApp\bin\Debug\net9.0\FirstApp.runtimeconfig.json
+C:\Users\mpors\Desktop\MySolution\FirstApp\bin\Debug\net9.0\FirstApp.dll
+C:\Users\mpors\Desktop\MySolution\FirstApp\bin\Debug\net9.0\FirstApp.pdb
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.AssemblyInfoInputs.cache
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.AssemblyInfo.cs
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.csproj.CoreCompileInputs.cache
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.dll
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\refint\FirstApp.dll
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.pdb
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\FirstApp.genruntimeconfig.cache
+C:\Users\mpors\Desktop\MySolution\FirstApp\obj\Debug\net9.0\ref\FirstApp.dll

@@ -1,0 +1,14 @@
+C:\Users\mpors\Desktop\MySolution\SecondApp\bin\Debug\net9.0\SecondApp.exe
+C:\Users\mpors\Desktop\MySolution\SecondApp\bin\Debug\net9.0\SecondApp.deps.json
+C:\Users\mpors\Desktop\MySolution\SecondApp\bin\Debug\net9.0\SecondApp.runtimeconfig.json
+C:\Users\mpors\Desktop\MySolution\SecondApp\bin\Debug\net9.0\SecondApp.dll
+C:\Users\mpors\Desktop\MySolution\SecondApp\bin\Debug\net9.0\SecondApp.pdb
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.AssemblyInfoInputs.cache
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.AssemblyInfo.cs
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.csproj.CoreCompileInputs.cache
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.dll
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\refint\SecondApp.dll
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.pdb
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\SecondApp.genruntimeconfig.cache
+C:\Users\mpors\Desktop\MySolution\SecondApp\obj\Debug\net9.0\ref\SecondApp.dll

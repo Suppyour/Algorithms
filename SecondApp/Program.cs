@@ -61,6 +61,7 @@ class SubstringSearchBenchmark
             if (j == pattern.Length)
                 return i;
         }
+
         return -1;
     }
 
@@ -121,8 +122,7 @@ class SubstringSearchBenchmark
 
             if (j < 0)
                 return shift;
-            else
-                shift += Math.Max(1, j - badChar[text[shift + j]]);
+            shift += Math.Max(1, j - badChar[text[shift + j]]);
         }
 
         return -1;

@@ -7,7 +7,7 @@ class Program
     static void Main()
     {
         int[] sizes = { 1000, 5000, 10000, 20000 };
-        Random random = new Random();
+        var random = new Random();
 
         foreach (var size in sizes)
         {
@@ -17,9 +17,9 @@ class Program
 
             Console.WriteLine($"\nРазмер массива: {size}");
 
-            double bubbleTime = MeasureTime(BubbleSort, arr);
-            double quickTime = MeasureTime(arr => QuickSort(arr, 0, arr.Length - 1), arr);
-            double countingTime = MeasureTime(CountingSort, arr);
+            var bubbleTime = MeasureTime(BubbleSort, arr);
+            var quickTime = MeasureTime(ints => QuickSort(ints, 0, ints.Length - 1), arr);
+            var countingTime = MeasureTime(CountingSort, arr);
 
             Console.WriteLine($"Пузырьковая сортировка: {bubbleTime:F6} секунд");
             Console.WriteLine($"Быстрая сортировка: {quickTime:F6} секунд");
@@ -28,8 +28,7 @@ class Program
     }
 
     // --- Алгоритмы сортировки ---
-
-    static void BubbleSort(int[] arr)
+    private static void BubbleSort(int[] arr)
     {
         int n = arr.Length;
         for (int i = 0; i < n - 1; i++)
@@ -38,7 +37,7 @@ class Program
                 (arr[j], arr[j + 1]) = (arr[j + 1], arr[j]);
     }
 
-    static void QuickSort(int[] arr, int low, int high)
+    private static void QuickSort(int[] arr, int low, int high)
     {
         if (low < high)
         {
@@ -49,7 +48,7 @@ class Program
         }
     }
 
-    static int Partition(int[] arr, int low, int high)
+    private static int Partition(int[] arr, int low, int high)
     {
         int pivot = arr[high];
         int i = (low - 1);
@@ -62,11 +61,12 @@ class Program
                 (arr[i], arr[j]) = (arr[j], arr[i]);
             }
         }
+
         (arr[i + 1], arr[high]) = (arr[high], arr[i + 1]);
         return (i + 1);
     }
 
-    static void CountingSort(int[] arr)
+    private static void CountingSort(int[] arr)
     {
         if (arr.Length == 0)
             return;
@@ -99,9 +99,7 @@ class Program
             arr[i] = output[i];
     }
 
-    // --- Замер времени выполнения ---
-
-    static double MeasureTime(Action<int[]> sortFunc, int[] original)
+    private static double MeasureTime(Action<int[]> sortFunc, int[] original)
     {
         double totalSeconds = 0;
         for (int i = 0; i < 10; i++)
@@ -115,6 +113,7 @@ class Program
 
             totalSeconds += stopwatch.Elapsed.TotalSeconds;
         }
+
         return totalSeconds / 10;
     }
 }

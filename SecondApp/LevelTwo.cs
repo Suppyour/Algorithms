@@ -130,9 +130,9 @@ class SubstringSearchBenchmark
 
     static int[] BuildBadCharTable(string pattern)
     {
-        const int ALPHABET_SIZE = 256;
-        int[] badChar = new int[ALPHABET_SIZE];
-        for (int i = 0; i < ALPHABET_SIZE; i++)
+        const int alphabetSize = 256;
+        int[] badChar = new int[alphabetSize];
+        for (int i = 0; i < alphabetSize; i++)
             badChar[i] = -1;
 
         for (int i = 0; i < pattern.Length; i++)

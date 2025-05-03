@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpors\\Desktop\\MySolution\\FourthApp\\FourthApp.csproj": {}
+    "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FourthApp\\FourthApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpors\\Desktop\\MySolution\\FourthApp\\FourthApp.csproj": {
+    "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FourthApp\\FourthApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpors\\Desktop\\MySolution\\FourthApp\\FourthApp.csproj",
+        "projectUniqueName": "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FourthApp\\FourthApp.csproj",
         "projectName": "FourthApp",
-        "projectPath": "C:\\Users\\mpors\\Desktop\\MySolution\\FourthApp\\FourthApp.csproj",
+        "projectPath": "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FourthApp\\FourthApp.csproj",
         "packagesPath": "C:\\Users\\mpors\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpors\\Desktop\\MySolution\\FourthApp\\obj\\",
+        "outputPath": "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FourthApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\mpors\\Desktop\\MySolution\\FirstApp\\FirstApp.csproj": {}
+    "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FirstApp\\FirstApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\mpors\\Desktop\\MySolution\\FirstApp\\FirstApp.csproj": {
+    "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FirstApp\\FirstApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\mpors\\Desktop\\MySolution\\FirstApp\\FirstApp.csproj",
+        "projectUniqueName": "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FirstApp\\FirstApp.csproj",
         "projectName": "FirstApp",
-        "projectPath": "C:\\Users\\mpors\\Desktop\\MySolution\\FirstApp\\FirstApp.csproj",
+        "projectPath": "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FirstApp\\FirstApp.csproj",
         "packagesPath": "C:\\Users\\mpors\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\mpors\\Desktop\\MySolution\\FirstApp\\obj\\",
+        "outputPath": "C:\\Users\\mpors\\Desktop\\Algorithms\\Algorithms\\FirstApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
